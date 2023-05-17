@@ -1,0 +1,5 @@
+D:\TrainingPractice_01\111112\KTA_Task_05\obj\Debug\net6.0\KTA_Task_05.csproj.AssemblyReference.cache
+D:\TrainingPractice_01\111112\KTA_Task_05\obj\Debug\net6.0\KTA_Task_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingPractice_01\111112\KTA_Task_05\obj\Debug\net6.0\KTA_Task_05.AssemblyInfoInputs.cache
+D:\TrainingPractice_01\111112\KTA_Task_05\obj\Debug\net6.0\KTA_Task_05.AssemblyInfo.cs
+D:\TrainingPractice_01\111112\KTA_Task_05\obj\Debug\net6.0\KTA_Task_05.csproj.CoreCompileInputs.cache
